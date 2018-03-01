@@ -5,6 +5,12 @@
   padding: 20px;
   position: relative;
 }
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
 .timeline:before {
   top: 40px;
   bottom: 0;
